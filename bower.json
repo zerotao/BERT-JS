@@ -1,0 +1,30 @@
+{
+  "name": "bert.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zerotao/BERT-JS",
+  "authors": [
+    "Ben Browning <ben324@gmail.com>",
+    "Boris Faure <boris@fau.re>",
+    "Pelle Wessman <pelle@kodfabrik.se>",
+    "Rui Barreiro <rui.barreiro@gmail.com>",
+    "Rusty Klophaus <rklophaus@gmail.com>",
+    "airportyh <airportyh@gmail.com>"
+  ],
+  "description": "Javascript implementation of BERT serialization (Binary ERlang Term).",
+  "main": ["bert.js"],
+  "keywords": [
+    "bert",
+    "javascript",
+    "erlang"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
